@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: My website
+title: NQA.blog
 
 # Your name to show in the footer
-author: Some Person
+author: Nguyen Quoc Anh
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "I love AI and data science stuff"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
